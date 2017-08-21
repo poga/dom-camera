@@ -1,0 +1,19 @@
+{
+  "name": "dom-camera",
+  "version": "1.0.0",
+  "description": "Take a picture of a DOM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "puppeteer",
+    "dom",
+    "screenshot"
+  ],
+  "author": "Poga Po<poga.bahamut@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^0.9.0"
+  }
+}
