@@ -16,7 +16,7 @@ await capture('https://example.com', 'h1', 'test.png')
 
 and the output:
 
-![test.png]()
+![](test.png)
 
 ## API
 
